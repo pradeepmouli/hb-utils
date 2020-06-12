@@ -1,0 +1,11 @@
+{
+    "name": "hb-utils",
+    "description": "Utility library for homebridge packages",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@log4js-node/log4js-api": "^1.0.2",
+        "@types/node": "^14.0.13",
+        "homebridge": "^1.1.0",
+        "typescript": "^3.9.5"
+    }
+}
