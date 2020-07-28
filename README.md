@@ -1,2 +1,3 @@
 # hb-utils
-Utility library for homebridge plugins
+
+A small utility library for homebridge plugins

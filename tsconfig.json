@@ -1,0 +1,30 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es2018",
+        "module": "commonjs",
+        "rootDir": "src",
+        "skipLibCheck": true,
+        "noImplicitUseStrict": true,
+        "lib":[
+            "ES2018",
+            "ES2017",
+            "ES2016",
+            "ES2015",
+            "ES6",
+            "ES5"
+        ],
+        //"allowJs": true,
+        "outDir": "lib",
+        "sourceMap": true,
+
+        "declaration": true,
+        "declarationDir": "lib",
+        "resolveJsonModule": true
+    },
+    "exclude": [
+        "./lib/*",
+        "./node_modules/*",
+        "./test/*"
+    ]
+}
